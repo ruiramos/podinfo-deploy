@@ -18,7 +18,7 @@ spec:
     spec:
       containers:
       - name: simple-server
-        image: quay.io/ruiramos/simple-server:v4
+        image: quay.io/ruiramos/simple-server:v3
         ports:
         - containerPort: 3000
         readinessProbe:

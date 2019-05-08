@@ -1,0 +1,1 @@
+{"jobID":"9fb96854-4eaf-5c0e-0292-ce4d1e04b81a","spec":{"type":"policy","cause":{"Message":"","User":"Rui Ramos \u003crui@ometria.com\u003e"},"spec":{"dev:deployment/simple-server":{"add":{"automated":"true"},"remove":null}}},"result":null}
